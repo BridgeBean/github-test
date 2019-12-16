@@ -10,6 +10,7 @@ package com.demo;
 
 public class User {
 
+    private Integer age;
 }
 
     
